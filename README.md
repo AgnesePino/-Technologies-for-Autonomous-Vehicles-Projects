@@ -77,22 +77,21 @@ The final output is an annotated video stream showing the driver state and estim
 autonomous-driving-projects/
 │
 ├── project-1-path-planning/
-│   ├── src/
-│   ├── report/
-│   └── README.md
+│   ├── Astar.py
+|   ├── Dijkstra.py
+│   └── README-P1.md
 │
 ├── project-2-lane-detection/
-│   ├── src/
-│   ├── report/
-│   └── README.md
+│   ├── run_gold.py
+│   └── README-P2.md
 │
 ├── project-3-driver-monitoring/
-│   ├── src/
-│   ├── report/
-│   └── README.md
+│   ├── runDMS.py
+│   └── README-P3.md
 │
 └── README.md
 ```
+
 ## Topics Covered
 Autonomous driving
 Global path planning
